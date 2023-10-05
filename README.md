@@ -11,6 +11,9 @@
 - Aba de arquivos onde possui os contratos assinados pelo cliente e os documentos;
 - Aba de atendimentos que foram feitos ao cliente cada atendimento com a descrição do que foi realizado para o mesmo.
 
+## Status do projeto:
+Projeto em andamento.
+
   
 
   
